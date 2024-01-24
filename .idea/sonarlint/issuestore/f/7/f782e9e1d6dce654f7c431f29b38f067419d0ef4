@@ -1,0 +1,9 @@
+
+w
+java:S1319"aThe type of "cart" should be an interface such as "Map" rather than the implementation "HashMap".(±ƒµÈ
+O
+java:S1612"9Replace this lambda with method reference 'Product::new'.(Ú³Ôƒ
+u
+java:S4276"_Refactor this code to use the more specialised Functional Interface 'ToDoubleFunction<HashMap>'(Ø÷Æƒ
+P
+java:S1611":Remove the parentheses around the "shoppingCart" parameter(Ø÷Æƒ

@@ -1,0 +1,22 @@
+
+=
+java:S1604
+"(Make this anonymous inner class a lambda(£·®
+>
+java:S1604"(Make this anonymous inner class a lambda(ÿïŞß
+C
+java:S1604*"(Make this anonymous inner class a lambda(ûè¿°şÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦¥ñª
+E
+java:S1197"*Move the array designators [] to the type.(ÎÍµúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ë§ç¶ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Š§§¸
+N	java:S106"9Replace this use of System.out or System.err by a logger.(èšı
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ğÙÙñ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(èšı
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(èí›–øÿÿÿÿ
+V	java:S125/"<This block of commented-out lines of code should be removed.(öŞŸşøÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(èšı
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(ªÏ–
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(èšı
+V	java:S125A"<This block of commented-out lines of code should be removed.(ÒÖ»–şÿÿÿÿ

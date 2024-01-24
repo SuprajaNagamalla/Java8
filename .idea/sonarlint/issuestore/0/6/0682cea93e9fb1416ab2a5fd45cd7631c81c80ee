@@ -1,0 +1,28 @@
+
+
+java:S1104"iMake priceGreaterThan1000Predicate a static final constant or non-public and provide accessors if needed.(¼» ğ
+~
+java:S1104"hMake electronicsCategoryPredicate a static final constant or non-public and provide accessors if needed.(Úºöà
+“
+java:S1104"}Make priceGreaterThan1000NCategoryElectronicsPredicate a static final constant or non-public and provide accessors if needed.(ã‘àø
+—
+java:S1104"|Make priceGreaterThan100NCategoryElectronicsPredicate a static final constant or non-public and provide accessors if needed.(Ö°§üúÿÿÿÿ
+‘
+java:S1104"|Make priceGreaterThan100RCategoryElectronicsPredicate a static final constant or non-public and provide accessors if needed.(›ÓÑ
+”
+java:S1104"yMake priceLessThan100NCategoryElectronicsPredicate a static final constant or non-public and provide accessors if needed.(»Š¬øÿÿÿÿ
+Y
+java:S1444"CMake this "public static priceGreaterThan1000Predicate" field final(¼» ğ
+X
+java:S1444"BMake this "public static electronicsCategoryPredicate" field final(Úºöà
+m
+java:S1444"WMake this "public static priceGreaterThan1000NCategoryElectronicsPredicate" field final(ã‘àø
+q
+java:S1444"VMake this "public static priceGreaterThan100NCategoryElectronicsPredicate" field final(Ö°§üúÿÿÿÿ
+k
+java:S1444"VMake this "public static priceGreaterThan100RCategoryElectronicsPredicate" field final(›ÓÑ
+n
+java:S1444"SMake this "public static priceLessThan100NCategoryElectronicsPredicate" field final(»Š¬øÿÿÿÿ
+P
+java:S1118
+":Add a private constructor to hide the implicit public one.(äÔÔ‘
